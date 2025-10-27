@@ -389,3 +389,4 @@ For questions related to this project, please contact the development team.
 **⭐ Star this repository if you find it helpful!**
 
 **🚀 Get started:** `streamlit run app.py`
+"# -yolo-promax" 
