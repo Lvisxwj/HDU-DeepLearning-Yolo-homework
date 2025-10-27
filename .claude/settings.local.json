@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/xwj/Desktop/study/YOLO/机器学习课程实践/project1/scripts/runs/**)",
+      "Read(//c/Users/xwj/Desktop/study/YOLO/机器学习课程实践/project1/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

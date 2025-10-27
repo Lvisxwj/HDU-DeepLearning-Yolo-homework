@@ -1,0 +1,7 @@
+path: C:/Users/wang/OneDrive/桌面/YOLOProject/机器学习实践课项目/水面检测/water_dataset
+train: images/train
+val: images/val
+test: images/test
+nc: 1
+names:
+- water
